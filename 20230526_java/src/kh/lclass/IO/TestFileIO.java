@@ -1,5 +1,10 @@
 package kh.lclass.IO;
 
-public class TestFileIO {
+import java.io.File;
 
+public class TestFileIO {
+	public void testFile() {
+		File f1 = new File("D:data/aaa.txt");
+		
+	}
 }
