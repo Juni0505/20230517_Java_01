@@ -71,6 +71,10 @@ public class TestApi {
 	 * System.out.println("testWraaperDoWhile 끝");
 	 */
 
+	private boolean checkMenu(int i, int j, int menu) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 	public void testString() {
 		StringBuffer str1 = new StringBuffer("aaa");
 		StringBuffer str2 = new StringBuffer();
